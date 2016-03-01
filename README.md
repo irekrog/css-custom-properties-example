@@ -8,4 +8,4 @@
 - iOS Safari 9.3+
 - Firefox for Android 44+
 
-- [Actual state on caniuse.com](http://caniuse.com/#feat=css-variables)
+- [Actual supported browsers you can check on caniuse.com](http://caniuse.com/#feat=css-variables)
